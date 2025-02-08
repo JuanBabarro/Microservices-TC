@@ -1,0 +1,30 @@
+{
+	"info": {
+		"_postman_id": "79369ee1-db30-4045-84da-8e1be01ee149",
+		"name": "Meter-Conerter-TodoCode",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "27946130"
+	},
+	"item": [
+		{
+			"name": "localhost:8081/converter/meters/5",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8081/converter/meters/5",
+					"host": [
+						"localhost"
+					],
+					"port": "8081",
+					"path": [
+						"converter",
+						"meters",
+						"5"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
